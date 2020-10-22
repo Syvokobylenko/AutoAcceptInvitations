@@ -39,8 +39,8 @@
 			<OnEnter>AutoAI.ButtonOnEnter(this)</OnEnter>
 			<OnLeave>AutoAI.ButtonOnLeave(this)</OnLeave>
 		</Scripts>
-		<NormalTexture file="interface/AddOns/AutoAcceptInvitations/img/icon_on"/>
-		<PushedTexture file="interface/AddOns/AutoAcceptInvitations/img/icon_off"/>
+		<NormalTexture file="interface/AddOns/AutoAcceptInvitations/img/icon_default"/>
+		<PushedTexture file="interface/AddOns/AutoAcceptInvitations/img/icon_light"/>
 		<HighlightTexture file="interface/minimap/minimapbutton_highlight" alphaMode="ADD"/>
 	</Button>
 </Ui>
